@@ -5,7 +5,7 @@ Meeting Prep Agent is an AI-powered assistant and interactive web application de
 
 ---
 
-# Live Demo: https://prep-meeting-agent.onrender.com
+#Live Demo: https://prep-meeting-agent.onrender.com
 
 ---
 
@@ -105,8 +105,7 @@ npm test
 npm run build
 ```
 
-# Author by
-Likhitha karingu
-Aiml Engineer Student
+#Author by
+Likhitha karingu | Aiml Engineer Student
 
 
