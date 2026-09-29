@@ -5,6 +5,10 @@ Meeting Prep Agent is an AI-powered assistant and interactive web application de
 
 ---
 
+# Live Demo: https://prep-meeting-agent.onrender.com
+
+---
+
 ## 🌟 Core Philosophy & Strict Rules
 
 1. **Zero Fabrication**: Only information from connected records (meetings, calls, emails, messages) or explicitly logged notes is used. Never invent commitments, dates, or sensitivities.
@@ -100,3 +104,9 @@ npm test
 ```bash
 npm run build
 ```
+
+# Author by
+Likhitha karingu
+Aiml Engineer Student
+
+
